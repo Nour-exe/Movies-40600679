@@ -18,3 +18,5 @@ INSERT INTO `Films` (`title`, `lenght_in_minutes`, `description`, `date_of_relea
 ('Bad boys II', 120 , 'Bad Boys for Life is een Amerikaanse komische actiefilm uit 2020 onder regie van Adil El Arbi en Bilall Fallah. De film is een sequel van Bad Boys en Bad Boys II. De hoofdrollen worden vertolkt door Will Smith en Martin Lawrence','01-04-2015', 'NL', 'SP'),
 ('Black Widow', 190 , 'Black Widow is een toekomstige Amerikaanse superheldenfilm gebaseerd op het Marvel Comics personage met dezelfde naam geproduceerd door Marvel Studios en gedistribueerd door Walt Disney Motion Pictures. Het zal de 24e film zijn uit het Marvel cinematic universe.', '01-04-2017','NL', 'SP'),
 ('Starwars', 120 , 'Lorem Ipsum', '01-06-2002','NL', 'NL');
+
+/
